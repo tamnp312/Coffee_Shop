@@ -1,7 +1,8 @@
 # CoffeeShop
 
 ## 📹 Video Demo
-[Watch the video on YouTube](#)
+[![Watch the video](https://img.youtube.com/vi/UcSv7VyaxGg/maxresdefault.jpg)](https://www.youtube.com/watch?v=UcSv7VyaxGg)
+
 
 ## 🌟 Website Features
 
